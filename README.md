@@ -27,5 +27,5 @@ A central repository for sharing reusable configurations, scripts, and parameter
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/<your-username>/Scripts.git
+   git clone https://github.com/ktaha1/Scripts.git
    cd Scripts
